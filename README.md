@@ -3,7 +3,7 @@
 ## Ciência de Dados Aplicado a Esportes de Luta 🥊🏆
 <h1> Contexto do Projeto </h1>
 
-Projeto final da disciplina de Machine Learning II ministrada pelo Professor Maurício Sobrinho. O projeto tem como objetivo ... . Para a proposição deste desafio foi utilizada a base "UFC Fighters' Statistics" disponibilizada no link a seguir do Kaggle: https://www.kaggle.com/datasets/asaniczka/ufc-fighters-statistics/ .
+Projeto final da disciplina de Machine Learning II ministrada pelo Professor Maurício Sobrinho. O projeto tem como objetivo realizar um estudo comparativo entre Métodos de Agrupamento . Para a proposição deste desafio foi utilizada a base "UFC Fighters' Statistics" disponibilizada no link a seguir do Kaggle: https://www.kaggle.com/datasets/asaniczka/ufc-fighters-statistics/ .
 
 <h1> Bibliotecas utilizadas </h1>
 
