@@ -14,13 +14,13 @@ As bibliotecas utilizadas:
 - Matplotlib
 - Seaborn
 - Sklearn
-- mlxtend
+- Mlxtend
 - Warnings
-- re
+- Re
 - Scipy
 
 
-<h1> Grupo </h1>
+<h1> Grupo 5 </h1>
 
 |   **Cicero Junior**   |  **Douglas Rocha**  |  **Mariah Moreira** |  Pedro Leal |
 | ---------------------- | ------------------- | ------------------- | ------------------- |
